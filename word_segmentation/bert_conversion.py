@@ -1,7 +1,7 @@
 """
 data utility for target extraction
 
-@Author: Young Fu
+@Author: youngf
 @Date: 2020-09-10
 @Last Update: 2020-09-29
 """

@@ -1,3 +1,9 @@
+# 总结：
+# 重中之重就是把从输入到loss的整个计算过程，放在tape中去
+# 这样才能根据tape计算梯度值，并进行反向传播
+#
+
+
 import tensorflow as tf
 import matplotlib.pyplot as plt
 import os
